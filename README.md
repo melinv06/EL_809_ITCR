@@ -3,4 +3,4 @@ Documentos relacionados al plan de estudios 809 de la Escuela de Electrónica de
 
 Este repositorio cuenta con branches de cada materia, dentro de los cuales se puede encontrar libros como materiales adicionales.
 
-![Malla](https://github.com/Chr1sus/EL_809_ITCR/blob/main/MallaCurricularPlan809%20ver%20oct%2017)
+![Malla](https://github.com/Chr1sus/EL_809_ITCR/blob/main/MallaCurricularPlan809%20ver%20oct%2017.pdf)
